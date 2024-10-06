@@ -1,0 +1,23 @@
+body {
+    background-color: #ffd2df; /* Color de fondo suave */
+    color: #000000; /* Color del texto */
+    font-family: Arial, sans-serif; /* Tipografía */
+}
+
+h2 {
+    color: #000000; /* Color azul para los encabezados */
+}
+
+.list-group-item {
+    border: 1px solid #000000; /* Bordes para los elementos de la lista */
+    margin-bottom: 10px; /* Espaciado entre los elementos */
+}
+
+.list-group-item a {
+    text-decoration: none; /* Sin subrayado en los enlaces */
+    color: #000000; /* Color de enlace */
+}
+
+.list-group-item a:hover {
+    text-decoration: underline; /* Subrayar al pasar el mouse */
+}
